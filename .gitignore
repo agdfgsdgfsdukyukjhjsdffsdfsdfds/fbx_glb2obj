@@ -1,0 +1,36 @@
+# 3D model files (keep repository lightweight)
+*.glb
+*.gltf
+*.bin
+*.fbx
+*.FBX
+*.fbm/
+*.obj
+*.mtl
+
+# Textures
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.tga
+*.dds
+
+# Blender backup files
+*.blend
+*.blend1
+*.blend2
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# IDEs & OS files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
